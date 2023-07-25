@@ -26,7 +26,7 @@ export default function Portofolio(){
             <div className="mainPortofolio">
                 <div className="portofolioText">
                     <h3>THEBADDESTDUCK [LOCALHOST]</h3>
-                    <p>TheBaddestDuck merupakan permainan simulasi kehidupan hewan piaraan, yang diawali dengan memilih
+                    <p>The Baddest Duck merupakan permainan simulasi kehidupan hewan piaraan, yang diawali dengan memilih
                     avatar hewan </p>
                     <div className="code">
                         <h3><a href="https://github.com/mrthnrldo/theBaddestDck" target="_blank">SOURCE CODE</a></h3>
